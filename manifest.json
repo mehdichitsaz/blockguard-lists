@@ -1,6 +1,6 @@
 {
   "version": 20261004,
-  "generated": "2026-10-04T04:35:02.515253+00:00",
+  "generated": "2026-10-04T11:51:02.748175+00:00",
   "total_domains": 509969,
   "sources_count": 19,
   "lists": [
@@ -21,17 +21,17 @@
     "ublock-unbreak": 185,
     "ublock-annoyances-general": 0,
     "ublock-annoyances-cookies": 6,
-    "easylist": 48091,
+    "easylist": 48176,
     "easyprivacy": 47212,
-    "adguard-base": 177276,
+    "adguard-base": 177387,
     "adguard-annoyances": 1070,
     "adguard-mobile": 1049,
     "steven-black": 72231,
     "peter-lowe": 3550,
-    "oisd-big": 244221,
+    "oisd-big": 244278,
     "hagezi-pro": 0,
     "urlhaus": 3193,
-    "phishing-army": 143425,
+    "phishing-army": 143346,
     "firstparty-trackers": 14483
   }
 }
