@@ -1,7 +1,7 @@
 {
-  "version": 20261004,
-  "generated": "2026-10-04T20:55:08.645085+00:00",
-  "total_domains": 510019,
+  "version": 20261005,
+  "generated": "2026-10-05T04:20:31.917978+00:00",
+  "total_domains": 510528,
   "sources_count": 19,
   "lists": [
     {
@@ -9,7 +9,7 @@
       "name": "BlockGuard Unified",
       "url": "https://raw.githubusercontent.com/mehdichitsaz/blockguard-lists/main/lists/unified-domains.txt",
       "description": "Auto-generated from 19 sources including uBlock Origin, EasyList, AdGuard, and more",
-      "domainCount": 510019,
+      "domainCount": 510528,
       "isEnabled": true
     }
   ],
@@ -21,17 +21,17 @@
     "ublock-unbreak": 185,
     "ublock-annoyances-general": 0,
     "ublock-annoyances-cookies": 6,
-    "easylist": 48290,
-    "easyprivacy": 47213,
-    "adguard-base": 177491,
+    "easylist": 48384,
+    "easyprivacy": 47214,
+    "adguard-base": 177585,
     "adguard-annoyances": 1070,
     "adguard-mobile": 1049,
     "steven-black": 72231,
     "peter-lowe": 3550,
-    "oisd-big": 244238,
+    "oisd-big": 245632,
     "hagezi-pro": 0,
-    "urlhaus": 3172,
-    "phishing-army": 143248,
+    "urlhaus": 3148,
+    "phishing-army": 143060,
     "firstparty-trackers": 14643
   }
 }
